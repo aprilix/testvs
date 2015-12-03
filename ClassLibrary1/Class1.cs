@@ -8,7 +8,7 @@ namespace ClassLibrary1
 {
     public class Class1
     {
-        public static int lol; 
+        public static int lolol; 
 
     }
 }
